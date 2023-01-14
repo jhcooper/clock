@@ -1,2 +1,5 @@
-John Henry Cooper , jhcoop@udel.edu , 702587870
-Katie Oates , koates@udel.edu , 702596401
+MANAGER: John Henry Cooper | jhcoop@udel.edu
+GROUP MEMBERS: Katie Oates | koates@udel.edu
+
+Displays a binary clock that updates every second.
+
