@@ -3,3 +3,6 @@ GROUP MEMBERS: Katie Oates | koates@udel.edu
 
 Displays a binary clock that updates every second.
 
+INSTRUCTIONS TO COMPILE:
+make all
+make run
